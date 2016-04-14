@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannsenecparste02piergoog_0115.png"; bbox 0 0 3118 5138; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 453 1297 595">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 453 1297 595">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 453 1297 595; baseline 0.004 -21"><span class='ocrx_word' id='word_1_1' title='bbox 357 552 361 560; x_wconf 82' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 394 531 436 574; x_wconf 86' lang='lat' dir='ltr'><strong>cx</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 573 508 635 575; x_wconf 91' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 660 507 915 577; x_wconf 83' lang='lat' dir='ltr'><strong>GENERIBUS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 941 453 1215 595; x_wconf 77' lang='lat' dir='ltr'><strong>CARMlNUM,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1230 522 1297 580; x_wconf 83' lang='lat' dir='ltr'><strong>etc.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 416 741 1437 1054">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 416 741 1437 1054">
+     <span class='ocr_line' id='line_1_2' title="bbox 416 741 1437 872; baseline 0.002 -27"><span class='ocrx_word' id='word_1_7' title='bbox 416 755 657 849; x_wconf 82' lang='lat' dir='ltr'><strong>scHEMA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 686 741 1140 848; x_wconf 79' lang='lat' dir='ltr'><strong>&#39;TRIMETRORUM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1170 759 1437 872; x_wconf 81' lang='lat' dir='ltr'><strong>SENECAE,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 474 969 1372 1054; baseline 0.001 -16"><span class='ocrx_word' id='word_1_10' title='bbox 474 969 726 1040; x_wconf 81' lang='lat' dir='ltr'><strong>SECUNDUM</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 750 969 1139 1039; x_wconf 79' lang='lat' dir='ltr'><strong>OBSERVATIONEM</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1164 969 1372 1054; x_wconf 78' lang='lat' dir='ltr'>AVANTss,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 770 1165 1077 1220">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 770 1165 1077 1220">
+     <span class='ocr_line' id='line_1_4' title="bbox 770 1165 1077 1220; baseline -0.007 0"><span class='ocrx_word' id='word_1_13' title='bbox 770 1165 975 1220; x_wconf 86' lang='lat' dir='ltr'>HUJUSMODI</span> <span class='ocrx_word' id='word_1_14' title='bbox 994 1166 1077 1218; x_wconf 85' lang='lat' dir='ltr'><strong>EST:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1564 5138">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1564 5138">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1564 5138; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1564 5138; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

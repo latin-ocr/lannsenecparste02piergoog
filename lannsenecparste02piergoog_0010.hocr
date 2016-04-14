@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lannsenecparste02piergoog_0010.png"; bbox 0 0 3090 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 23 1569 1341 1791">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 23 1569 1341 1791">
+     <span class='ocr_line' id='line_1_1' title="bbox 23 1569 1341 1791; baseline -0.022 -84"><span class='ocrx_word' id='word_1_1' title='bbox 23 1744 26 1791; x_wconf 33' lang='grc' dir='ltr'><strong>ἱ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 314 1575 632 1704; x_wconf 87' lang='grc' dir='ltr'><strong>ΟΜΝΙΑ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 678 1578 981 1701; x_wconf 85' lang='lat' dir='ltr'><strong>OPERA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1216 1569 1218 1577; x_wconf 78' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1339 1669 1341 1678; x_wconf 9' lang='grc' dir='ltr'>χ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 22 2063 1138 2276">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 22 2063 1138 2365">
+     <span class='ocr_line' id='line_1_2' title="bbox 22 2063 1138 2276; baseline -0.007 2"><span class='ocrx_word' id='word_1_6' title='bbox 22 2172 25 2247; x_wconf 36' lang='lat'><strong>⁴</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 159 2065 265 2274; x_wconf 81' lang='lat' dir='ltr'><strong>L.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 310 2067 439 2275; x_wconf 81' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 478 2063 1138 2276; x_wconf 79' lang='lat' dir='ltr'><strong>SENECAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 278 2363 1027 2534">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 22 2363 1027 2534">
+     <span class='ocr_line' id='line_1_3' title="bbox 278 2363 1027 2534; baseline 0.007 -5.217"><span class='ocrx_word' id='word_1_10' title='bbox 278 2433 280 2438; x_wconf 93' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 391 2363 915 2533; x_wconf 76' lang='lat' dir='ltr'><strong>PHILOSOPHICA</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1023 2525 1027 2534; x_wconf 82' lang='lat'><em>.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 193 2682 1097 2766">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 18 2600 1097 2868">
+     <span class='ocr_line' id='line_1_4' title="bbox 193 2682 1097 2766; baseline -0.005 0.189"><span class='ocrx_word' id='word_1_13' title='bbox 193 2682 689 2766; x_wconf 87' lang='lat' dir='ltr'><strong>DECLAMATORIA</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 720 2687 794 2764; x_wconf 89' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 822 2682 1097 2764; x_wconf 88' lang='lat' dir='ltr'>TRAGICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1550 5142">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1550 5142">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1550 5142; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1550 5142; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
